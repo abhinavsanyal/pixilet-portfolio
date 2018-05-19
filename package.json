@@ -1,0 +1,24 @@
+{
+  "name": "pixelet-portfolio",
+  "version": "1.0.0",
+  "description": "portfolio of Pixilet",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "pixilet",
+    "graphics",
+    "logo",
+    "portfolio",
+    "static"
+  ],
+  "author": "Abhinava Sanyal",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.2",
+    "express": "^4.16.3",
+    "helmet": "^3.12.1"
+  }
+}
